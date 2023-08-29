@@ -95,3 +95,40 @@ body{
 .header.about{
     color: black;
 }
+
+.aboutlink {
+    text-align: center;
+    margin-top: 20px;
+    padding-left: 50px;
+  }
+
+  .aboutlink a {
+  text-decoration: none;
+  background-color: cyan;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-weight: bold;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.aboutlink a:hover {
+    background-color: #0056b3;
+  }
+
+  .supportlink{
+    text-decoration: none;
+    background-color: cyan;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s ease-in-out;
+  }
+
+  .supportlink {
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  

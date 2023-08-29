@@ -1,0 +1,61 @@
+/* Support.css */
+
+/* Container styles */
+.support-container {
+    background-color: #000;
+    padding: 20px;
+    border: 1px solid #333;
+    border-radius: 5px;
+    margin: 20px;
+  }
+  
+  /* Heading styles */
+  .support-container h1 {
+    font-size: 24px;
+    color: #007bff; /* Blue color */
+    margin-bottom: 10px;
+  }
+  
+  /* Subheading styles */
+  .support-container h2 {
+    font-size: 18px;
+    color: #007bff; /* Blue color */
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  
+  /* Link styles */
+  .support-container a {
+    color: #007bff; /* Blue color */
+    text-decoration: none;
+  }
+  
+  .support-container a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Paragraph styles */
+  .support-container p {
+    font-size: 16px;
+    color: #fff; /* White color */
+    margin-bottom: 15px;
+  }
+  
+  /* List styles */
+  .support-container ol {
+    margin-left: 20px;
+    padding-left: 20px;
+  }
+  
+  .support-container li {
+    font-size: 16px;
+    color: #fff; /* White color */
+    margin-bottom: 5px;
+  }
+  
+  /* Highlighted text */
+  .support-container strong {
+    font-weight: bold;
+    color: #007bff; /* Blue color */
+  }
+  
